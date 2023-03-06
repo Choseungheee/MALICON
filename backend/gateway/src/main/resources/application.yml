@@ -5,7 +5,7 @@
 
 
 jwt:
-  secret: dyAeHubOOc8KaOfYB6XEQoEj1QzRlVgtjNL8PYs1A1tymZvvqkcEU7L1imkKHeDa
+  secret: ***********
 
 spring:
   cloud:

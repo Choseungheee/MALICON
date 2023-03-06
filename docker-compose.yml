@@ -75,7 +75,7 @@ services:
 
   redis:
     image: redis
-    command: ["redis-server", "--appendonly", "yes",  "--replica-read-only", "no",  "--requirepass", "qhBb3Ht7Psvz54PCjlAw"]
+    command: ["redis-server", "--appendonly", "yes",  "--replica-read-only", "no",  "--requirepass", "***********"]
     ports:
       - "6379:6379"
     networks:

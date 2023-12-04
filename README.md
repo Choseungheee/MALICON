@@ -111,7 +111,7 @@ javacript를 사용해 프로젝트를 위한 멋진 아바타를 즉시 만들 
 
 quill은 rich text editor의 일종으로 마이크로소프트 등의 기업에서 후원하고 있는 텍스트 에디터입니다.
 
-
+![https://velog.velcdn.com/images/holim0/post/24db4789-097f-4029-ac55-144b617defde/1*5nrbmhbM0h4dhT4mzkQ1uA.png](https://velog.velcdn.com/images/holim0/post/24db4789-097f-4029-ac55-144b617defde/1*5nrbmhbM0h4dhT4mzkQ1uA.png)
 
 ### React-Toolkit
 
